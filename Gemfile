@@ -24,6 +24,8 @@ gem 'mongoid'
 gem 'bootstrap-sass'
 # Use OmniAuth
 gem 'omniauth-twitter'
+# Use figaro
+gem 'figaro'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
